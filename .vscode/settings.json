@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ecfaaece-6013-4a44-a322-1336dbbf7d45/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/martynasdfront",
+    "appService.deploySubpath": "."
+}
